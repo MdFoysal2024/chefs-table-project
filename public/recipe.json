@@ -1,0 +1,109 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_img": "https://cdn.pixabay.com/photo/2017/11/16/18/51/kagyana-2955466_640.jpg",
+      "recipe_name": "Spaghetti Carbonara",
+      "short_description": "Classic Italian pasta dish with creamy egg-based sauce, pancetta, and Parmesan cheese.",
+      "preparing_time": 25,
+      "calories": 600,
+      "ingredients": [
+        "Spaghetti",
+        "Eggs",
+        "Pancetta",
+        "Parmesan cheese",
+        "Black pepper",
+        "Garlic"
+      ]
+    },
+    {
+      "recipe_id": 2,
+      "recipe_img": "https://media.istockphoto.com/id/1174952438/photo/shakshouka-poached-eggs-on-tomato-sauce.jpg?s=612x612&w=0&k=20&c=o2ua2I-ZKLu5vm18uzS5wFigkiq_BI3Bei8iBHvEblg=",
+      "recipe_name": "Grilled Lemon Herb Chicken",
+      "short_description": "Juicy grilled chicken breasts marinated in lemon juice, olive oil, and fresh herbs.",
+      "preparing_time": 40,
+      "calories": 350,
+      "ingredients": [
+        "Chicken breasts",
+        "Lemon juice",
+        "Olive oil",
+        "Garlic",
+        "Thyme",
+        "Rosemary",
+        "Salt",
+        "Pepper"
+      ]
+    },
+    {
+      "recipe_id": 3,
+      "recipe_img": "https://static01.nyt.com/images/2022/05/11/dining/09Eggs-Shakshuka/merlin_167226180_b85a7f62-405f-4fcb-b9cb-21a6855cfdc5-articleLarge.jpg?quality=75&auto=webp&disable=upscale",
+      "recipe_name": "Vegetable Stir-fry",
+      "short_description": "Quick and healthy stir-fry with a mix of fresh vegetables and a savory soy sauce.",
+      "preparing_time": 20,
+      "calories": 200,
+      "ingredients": [
+        "Broccoli",
+        "Carrots",
+        "Bell peppers",
+        "Snow peas",
+        "Soy sauce",
+        "Garlic",
+        "Ginger",
+        "Sesame oil"
+      ]
+    },
+    {
+      "recipe_id": 4,
+      "recipe_img": "https://media.istockphoto.com/id/1155521138/photo/shakshuka-classical-on-the-board.jpg?s=612x612&w=0&k=20&c=F3Y-WJGCG_xAPmBCoyRPsvbZQbDntVWape2HZYKk2p8=",
+      "recipe_name": "Avocado Toast with Poached Egg",
+      "short_description": "Creamy avocado spread on whole-grain toast topped with a perfectly poached egg.",
+      "preparing_time": 15,
+      "calories": 250,
+      "ingredients": [
+        "Avocado",
+        "Whole-grain bread",
+        "Eggs",
+        "Lemon juice",
+        "Salt",
+        "Pepper",
+        "Chili flakes"
+      ]
+    },
+    {
+      "recipe_id": 5,
+      "recipe_img": "https://media.istockphoto.com/id/1390552915/photo/shakshuka-classical-on-cast-iron-pan-on-white-plate.jpg?s=612x612&w=0&k=20&c=OhBJ0gnTukB7XyX4epyiSYdy7AO3zsfF5_eYlusPrgE=",
+      "recipe_name": "Banana Pancakes",
+      "short_description": "Fluffy and delicious banana pancakes served with maple syrup and fresh fruit.",
+      "preparing_time": 30,
+      "calories": 400,
+      "ingredients": [
+        "Bananas",
+        "Flour",
+        "Eggs",
+        "Milk",
+        "Baking powder",
+        "Maple syrup",
+        "Butter"
+      ]
+    },
+    {
+      "recipe_id": 6,
+      "recipe_img": "https://static01.nyt.com/images/2023/05/03/multimedia/MC-Shakshuka-with-Feta2/03MOSTSAVED-Roundup-Shakshuka-with-Feta2-zhwm-mediumThreeByTwo440.jpg",
+      "recipe_name": "Chili Con Carne",
+      "short_description": "Hearty and spicy chili made with ground beef, beans, tomatoes, and chili powder.",
+      "preparing_time": 60,
+      "calories": 550,
+      "ingredients": [
+        "Ground beef",
+        "Kidney beans",
+        "Tomatoes",
+        "Onion",
+        "Garlic",
+        "Chili powder",
+        "Cumin",
+        "Paprika",
+        "Salt",
+        "Pepper"
+      ]
+    }
+  ]
+  
